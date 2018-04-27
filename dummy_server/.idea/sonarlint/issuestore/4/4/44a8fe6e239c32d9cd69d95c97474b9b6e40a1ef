@@ -1,0 +1,7 @@
+
+wsquid:UselessImportCheck"IRemove this unused import 'org.apache.thrift.transport.TFramedTransport'.( ¤éøÿÿÿÿ8æ•«µ‘,
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‰«å±ÿÿÿÿÿ8Ùåş¢‘,
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(É¯¯8Ùåş¢‘,
+hsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ùåş¢‘,
+Psquid:EmptyStatementUsageCheck"Remove this empty statement.(ÜâŸ„øÿÿÿÿ8Ùåş¢‘,
+]squid:S1126"AReplace this if-then-else statement by a single return statement.(ùÙò8Ùåş¢‘,

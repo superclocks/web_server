@@ -1,0 +1,13 @@
+
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8Å¹§Ÿ‘,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÂÁ© üÿÿÿÿ8Å¹§Ÿ‘,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(”Û÷õøÿÿÿÿ8Å¹§Ÿ‘,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ðø¼û8Å¹§Ÿ‘,
+nsquid:S2259"MA "NullPointerException" could be thrown; "serverTransport" is nullable here.(’õä§ûÿÿÿÿ8Å¹§Ÿ‘,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(òÜ™È8Å¹§Ÿ‘,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Çµí‘8Å¹§Ÿ‘,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8Å¹§Ÿ‘,

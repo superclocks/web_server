@@ -1,0 +1,6 @@
+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ö‘Ìšüÿÿÿÿ8ÊÂ“É‘,
+t
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ÌÑ ß8ÊÂ“É‘,
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(öÎ¯¬8ÜŸ˜É‘,
+hsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ýÉ–ùÿÿÿÿ8ÊÂ“É‘,

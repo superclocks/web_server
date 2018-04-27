@@ -1,0 +1,8 @@
+
+l
+squid:S128"LEnd this switch case with an unconditional break, return or throw statement.(ÍŒÿÃùÿÿÿÿ8€®‹É‘,
+hsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(‡ª›ùÿÿÿÿ8®úŒÉ‘,
+Fsquid:S00108")Either remove or fill this block of code.(”ı¾8€®‹É‘,
+hsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ëøş²øÿÿÿÿ8€®‹É‘,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(˜Õ”òüÿÿÿÿ8€®‹É‘,
+§%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ëøş²øÿÿÿÿ8®úŒÉ‘,

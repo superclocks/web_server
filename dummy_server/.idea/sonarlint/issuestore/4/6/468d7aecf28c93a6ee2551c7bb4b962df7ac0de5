@@ -1,0 +1,22 @@
+
+"squid:ClassVariableVisibilityCheck"PMake ncol a static final constant or non-public and provide accessors if needed.(Íø›èùÿÿÿÿ
+1squid:S1220""Move this file to a named package.
+Ssquid:S1854"7Remove this useless assignment to local variable "idx".(õş‹é8Ãïçä‘,
+fsquid:S1858"E"items" is an array of strings, there's no need to call "toString()".(Áô­şÿÿÿÿ8¾šÉä‘,
+"squid:ClassVariableVisibilityCheck"PMake data a static final constant or non-public and provide accessors if needed.(Ò½¸³şÿÿÿÿ
+€"squid:ClassVariableVisibilityCheck"TMake colIndex a static final constant or non-public and provide accessors if needed.(´µƒ£
+gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(¸™¦¦
+Fsquid:S00108")Either remove or fill this block of code.(å¥‡8ÇÍä‘,
+hsquid:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Å¼ºı8ÇÍä‘,
+Dsquid:S1481"(Remove this unused "idx" local variable.(õş‹é8Ãïçä‘,
+"squid:ClassVariableVisibilityCheck"PMake data a static final constant or non-public and provide accessors if needed.(Ò½¸³şÿÿÿÿ
+|"squid:ClassVariableVisibilityCheck"PMake nrow a static final constant or non-public and provide accessors if needed.(À§³‹
+ƒ"squid:ClassVariableVisibilityCheck"RMake labels a static final constant or non-public and provide accessors if needed.(´ßãöùÿÿÿÿ
+asquid:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Å¼ºı
+‚"squid:ClassVariableVisibilityCheck"VMake rowHeaders a static final constant or non-public and provide accessors if needed.(ê£‚Ÿ
+[squid:S1192"FDefine a constant instead of duplicating this literal "UTF-8" 4 times.(Å¼ºı
+Msquid:S1153"1Directly append the argument of String.valueOf().(õş‹é8Ãïçä‘,
+Tsquid:S1118":Add a private constructor to hide the implicit public one.(›îğúÿÿÿÿ
+ƒ"squid:ClassVariableVisibilityCheck"RMake labels a static final constant or non-public and provide accessors if needed.(´ßãöùÿÿÿÿ
+asquid:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Å¼ºı
+hsquid:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Å¼ºı8ÇÍä‘,

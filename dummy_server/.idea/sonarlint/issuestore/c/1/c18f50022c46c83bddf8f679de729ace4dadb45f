@@ -1,0 +1,6 @@
+
+hsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ÓñäÎúÿÿÿÿ8à‚˜ä‘,
+_squid:CallToDeprecatedMethod"2Remove this use of "setFactory"; it is deprecated.(½ìŽÔ8à‚˜ä‘,
+squid:S1488"^Immediately return this expression instead of assigning it to the temporary variable "socket".(…Ý·¸ûÿÿÿÿ8à‚˜ä‘,
+hsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ÀäÜÌùÿÿÿÿ8à‚˜ä‘,
+hsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(¢“µÑûÿÿÿÿ8à‚˜ä‘,
