@@ -4,7 +4,7 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
        <!-- 连接池配置 -->
-       <bean id="connectionProvider" class="sc.pool.ConnectionProviderImpl">
+       <bean id="connectionProvider" class="sc.client.pool.ConnectionProviderImpl">
               <property name="serviceIP" value="127.0.0.1" />
               <property name="servicePort" value="8080" />
               <property name="maxActive" value="10" />
@@ -15,11 +15,11 @@
               <property name="conTimeOut" value="2000" />
        </bean>
 
-       <bean id="connectionManager" class="sc.pool.ConnectionManager">
+       <bean id="connectionManager" class="sc.client.pool.ConnectionManager">
               <property name="connectionProvider"  ref="connectionProvider"/>
        </bean>
 
-       <bean id="thriftClientProxy" class="sc.leveldb.ThriftClientProxy">
+       <bean id="thriftClientProxy" class="sc.client.proxy.ThriftClientProxy">
               <property name="connectionManager" ref="connectionManager"/>
        </bean>
 
